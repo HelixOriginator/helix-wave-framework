@@ -2,10 +2,10 @@
 
 **Original interdisciplinary model by Kallol Chakrabarti (Helix Originator)**
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4971--8936-green.svg)](https://orcid.org/0009-0007-4971-8936)
-[![Downloads](https://img.shields.io/badge/Downloads-5000%2B-blue.svg)](https://zenodo.org/communities/kallolchakrabarti)
-[![DOIs](https://img.shields.io/badge/DOIs-249-orange.svg)](https://zenodo.org/communities/kallolchakrabarti)
-[![Ranking](https://img.shields.io/badge/Ranking-Highest%20Downloads%20Independent%20Researcher-red.svg)](https://ssrn.com/author=KallolChakrabarti)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4971--8936-green.svg)](https://orcid.org/my-orcid?orcid=0009-0007-4971-8936)
+[![Downloads](https://img.shields.io/badge/Downloads-5000%2B-blue.svg)](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
+[![DOIs](https://img.shields.io/badge/DOIs-254-orange.svg)](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
+[![Ranking](https://img.shields.io/badge/Ranking-Highest%20Downloads%20Independent%20Researcher-red.svg)](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7407085)
 [![Patent](https://img.shields.io/badge/Provisional%20Patent-202411090481-purple.svg)](https://ipindiaservices.gov.in/publicsearch)
 
 ## 🌐 Visit Website
@@ -52,13 +52,13 @@ The Helix Wave Framework has been applied in:
 
 - **Highest Downloads Among Independent Researchers Globally** - 5,000+ downloads (Top 5%)
 - **Zenodo: 4,000+ | SSRN: 758+** - Documented research downloads
-- **249 DOIs** - Published research outputs
+- **254 DOIs** - Published research outputs
 - **25 Copyrights** - Original works
 - **Provisional Patent Holder** - India Patent Application 202411090481
-- **National IP Award Candidate** - Recognized by Government of India
+- **National IP Award Shortlist** - Shortlisted on 8th December 2025 by Government of India
 - **Government Recognition** - Election Commission of India, Chief Minister of Assam
-- **Academic Peer Review** - US-based Academia AI
-- **Institutional Affiliation** - Ronin Institute, DeSci Labs Geneva
+- **Peer Review Invitation** - Invited by US-based Academia AI as peer reviewer
+- **Institutional Affiliation** - Ronin Institute
 
 ---
 
@@ -68,9 +68,9 @@ The Helix Wave Framework has been applied in:
 
 Independent Researcher | National Policy Innovator | Author
 
-- **ORCID:** [0009-0007-4971-8936](https://orcid.org/0009-0007-4971-8936)
-- **SSRN:** [KallolChakrabarti](https://ssrn.com/author=KallolChakrabarti)
-- **Zenodo:** [kallolchakrabarti](https://zenodo.org/communities/kallolchakrabarti)
+- **ORCID:** [0009-0007-4971-8936](https://orcid.org/my-orcid?orcid=0009-0007-4971-8936)
+- **SSRN:** [Kallol Chakrabarti](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7407085)
+- **Zenodo:** [kallolchakrabarti](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
 - **Medium:** [@kallolchitralimagicpen](https://medium.com/@kallolchitralimagicpen)
 
 ### Portfolio
@@ -85,6 +85,30 @@ Creator of **190+ original frameworks** including:
 - Convergence Doctrine
 - Quantum Ethical Uncertainty
 - Sanatana Ready Reckoners
+
+---
+
+## 🌟 Featured Publication
+
+### Dharma as a Universal Principle of Order: A Philosophical and Systemic Reinterpretation Beyond Religion, Morality, and Ritual
+
+**Published:** February 5, 2026 | **DOI:** [10.5281/zenodo.18498639](https://doi.org/10.5281/zenodo.18498639)
+
+This groundbreaking paper presents a revolutionary philosophical framework redefining **Dharma** not as religion or morality, but as a **universal principle of order, knowledge, balance, and functional responsibility**. 
+
+**Key Contributions:**
+- **New Definition of Dharma** - First comprehensive redefinition as a cross-cultural analytical concept
+- **Dharma vs Religion** - Clear differentiation challenging conventional interpretations
+- **Cosmological Framework** - Original analysis of creation of the universe through Dharmic lens
+- **Universal Application** - Bridges ancient wisdom with contemporary philosophy, science, and social theory
+
+**Abstract:**  
+The term Dharma is frequently interpreted as synonymous with religion, morality, or cultural practice. Such interpretations restrict its conceptual scope. This paper proposes an alternative philosophical framework in which Dharma is understood as a universal principle of order, knowledge, balance, and functional responsibility. By examining natural law, human behavior, education, ritual practices, ethics, and cosmology, Dharma is redefined as the sustaining logic that maintains coherence within complex systems.
+
+**Encyclopedic Significance:**  
+This work provides foundational definitions suitable for inclusion in philosophical encyclopedias, offering a rigorous, scholarly reinterpretation of Dharma that transcends cultural boundaries and applies to universal systems of order and knowledge.
+
+📥 **[Download Full Paper (PDF)](https://doi.org/10.5281/zenodo.18498639)**
 
 ---
 
@@ -124,7 +148,7 @@ Explore other original frameworks by Kallol Chakrabarti:
 | **Total** | 5,000+ | **#1 Independent Researcher** |
 
 **Research Outputs:**
-- 249 DOIs
+- 254 DOIs
 - 25 Copyrights
 - 1 Provisional Patent (India)
 - 190+ Original Frameworks
@@ -155,7 +179,7 @@ Read about the journey behind this research:
 ## 📞 Connect
 
 - **Main Portfolio:** [helixoriginator.github.io](https://helixoriginator.github.io)
-- **ORCID:** [0009-0007-4971-8936](https://orcid.org/0009-0007-4971-8936)
+- **ORCID:** [0009-0007-4971-8936](https://orcid.org/my-orcid?orcid=0009-0007-4971-8936)
 
 ---
 
